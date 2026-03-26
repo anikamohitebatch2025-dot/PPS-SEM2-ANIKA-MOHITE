@@ -43,7 +43,7 @@ Prime.drawio.png)
 
 ## Execution
 <p align="center">
-  <img src="Prime.png" width="900">
+  <img src="prime.png" width="900">
 </p>
 
 
