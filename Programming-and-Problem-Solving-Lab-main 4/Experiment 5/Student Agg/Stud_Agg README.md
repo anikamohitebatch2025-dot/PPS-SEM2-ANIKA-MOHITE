@@ -36,7 +36,7 @@ Aggregate < 40 : Fail.
 
 ## Execution
 <p align="center">
-  <img src="Stud_Agg exe.png" width="900">
+  <img src="Studentt GRADE.png" width="900">
 </p>
 
 
