@@ -23,7 +23,7 @@ Write a Python program that prompts the user to enter three integers. Print the 
 
 ## Execution
 <p align="center">
-  <img src="Largest.drawio.png" width="900">
+  <img src="Largest of three number.png" width="900">
 </p>
 
 
